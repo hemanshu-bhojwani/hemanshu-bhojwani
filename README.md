@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Systems & C
 <!--- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me: hemanshub@outlook.com or hemanshu@bu.edu
+- 📫 How to reach me: hemanshub@outlook.com
 
 <!---
 hemanshu-bhojwani/hemanshu-bhojwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
