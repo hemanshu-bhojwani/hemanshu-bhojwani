@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hemanshu Bhojwani
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Computer Systems & C
+<!--- - 🌱 I’m currently learning Computer Systems & C -->
 <!--- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: hemanshub@outlook.com
 
