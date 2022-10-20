@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Hemanshu Bhojwani
-- 👀 I’m interested in Software Engineering
 - 🎓 I am a Class of 2024 Computer Science Major at Boston University
 <!--- - 🌱 I’m currently learning Computer Systems & C -->
 <!--- - 💞️ I’m looking to collaborate on ... -->
+- 👀 I’m interested in Software Engineering Internships.
+- 📚 This semester, I am taking 'Intro. to Database Systems' and 'Intro. to Information Security.'
+<!--- - 💻 I am currently learning React -->
 - 📫 How to reach me: hemanshub@outlook.com
 
 <!---
