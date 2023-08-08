@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hemanshu Bhojwani
 - 🎓 I am a Class of 2024 Computer Science Major at Boston University
 - 👀 I’m interested in Full-Stack Software Engineering
-- 📚 This semester, I am taking 'Fundamentals of Computing Systems (Distributed Systems)' and 'Crypto for Data Science'
+- 📚 This semester, I am taking 'Data Science Tools and Applications' and 'Mobile App Development (Android)'
 - 📫 How to reach me: hemanshub@outlook.com
 <!--- - 🌱 I’m currently learning Computer Systems & C -->
 <!--- - 💞️ I’m looking to collaborate on ... -->
