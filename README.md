@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hemanshu Bhojwani
-- 🎓 I am a Class of 2024 Computer Science Major at Boston University
+- 🎓 I graduated from Boston University with a B.A. in Computer Science
 - 👀 I’m interested in Full-Stack Software Engineering
-- 📚 This semester, I am taking CS440 'Introduction to Artificial Intelligence'
+<!--- - 📚 This semester, I am taking CS440 'Introduction to Artificial Intelligence'  -->
 - 📫 How to reach me: hemanshub@outlook.com
 <!--- - 🌱 I’m currently learning Computer Systems & C -->
 <!--- - 💞️ I’m looking to collaborate on ... -->
